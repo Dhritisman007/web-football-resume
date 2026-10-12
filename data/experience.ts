@@ -12,11 +12,11 @@ export interface Transfer {
 
 export const transfers: Transfer[] = [
   {
-    year: "2025",
+    year: "2024",
     organisation: "FISS",
     role: "Research Intern",
     focus: "Research",
-    period: "2025",
+    period: "2024",
     highlights: [],
   },
   {
