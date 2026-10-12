@@ -151,13 +151,6 @@ export const attributes: Attribute[] = [
     note: "Cleaning, analysing and visualising data before any modelling.",
   },
   {
-    name: "SYSTEM DESIGN",
-    level: 7,
-    technologies: ["FastAPI", "PostgreSQL", "IPFS", "Polygon"],
-    projects: ["TradeHelp Analytics", "Ann Yatra"],
-    note: "Designing data flows between services, APIs and on-chain storage.",
-  },
-  {
     name: "LLM & AGENTS",
     level: 8,
     technologies: ["Google Gemini API", "LangChain", "RAG", "ChromaDB"],
