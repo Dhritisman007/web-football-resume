@@ -30,7 +30,7 @@ export default function PlayerProfile() {
 
                 <div className="flex items-start justify-between gap-4">
                   <span className="label">PLAYER CARD · 2027</span>
-                  <span className="display text-5xl leading-none text-red">27</span>
+                  <span className="display text-5xl leading-none text-red">22</span>
                 </div>
 
                 <div className="relative mt-5 aspect-[4/5] overflow-hidden border border-line bg-steel">
