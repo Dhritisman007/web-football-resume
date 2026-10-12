@@ -110,7 +110,7 @@ export const projects: Project[] = [
     challenges: TODO,
     learned: TODO,
     github: "GITHUB_URL_HERE",
-    demo: "https://tradehelp.tech",
+    demo: "https://www.tradehelp.tech",
   },
   {
     id: "cotton-disease",
